@@ -1,1 +1,22 @@
+VERSION="2.2.1"
 
+ACCOUNTS=[
+"GCVIGKGSDQPFQKTJUOU36T73FTEOKAYLKDWSDWTLKLEW5VFI52FYAUST",
+]
+
+[DOCUMENTATION]
+ORG_NAME="Bank Australia"
+ORG_URL="https://www.baustellar.com/"
+ORG_DESCRIPTION="The organisation can trace its origins back to 1957, when the CSIRO Co-operative Credit Society was formed."
+ORG_LOGO="https://www.baustellar.com/aust.png"
+
+
+[[CURRENCIES]]
+code="BAU"
+status="live"
+display_decimals=3
+issuer="GCVIGKGSDQPFQKTJUOU36T73FTEOKAYLKDWSDWTLKLEW5VFI52FYAUST"
+anchor_asset_type="crypto"
+name="Bank Australia"
+desc="The organisation can trace its origins back to 1957, when the CSIRO Co-operative Credit Society was formed."
+image="https://www.baustellar.com/aust.png"
