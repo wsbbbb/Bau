@@ -20,3 +20,13 @@ anchor_asset_type="crypto"
 name="Bank Australia"
 desc="The organisation can trace its origins back to 1957, when the CSIRO Co-operative Credit Society was formed."
 image="https://www.baustellar.com/aust.png"
+
+[[CURRENCIES]]
+code="AGOLD  "
+status="live"
+display_decimals=3
+issuer="GCB25IX5PW6YLV5PHSHMLRFV6RFC4VRASG5L2724SBEOII2T2KYIGOLD"
+anchor_asset_type="crypto"
+name="Australia GOLD"
+desc="Australia Gold Bonds. The organisation can trace its origins back to 1957, when the CSIRO Co-operative Credit Society was formed."
+image="https://www.baustellar.com/agold.png"
